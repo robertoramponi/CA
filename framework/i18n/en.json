@@ -1,0 +1,13 @@
+{
+    "search_input": "Search in our library...",
+    "simple_plan_heading": "Empower your team to learn & master the multi-cloud",
+    "enroll": "Sign up with Google",
+    "simple_plan_enroll_button": "Start Now",
+    "first_name": "First Name",
+    "alert_generic": "This field is required",
+    "last_name": "Last Name",
+    "email": "Your email address",
+    "alert_email_message": "Please enter a valid email address.",
+    "password": "Password",
+    "alert_password_message": "Password should be at least 12 characters with at least one letter, one capital letter and one number"
+}

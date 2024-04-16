@@ -1,0 +1,20 @@
+{
+    "default": {
+        "formatOptions": {
+            "snippetInterface": "async-await"
+        },
+        "publishQuiet": true,
+        "dryRun": false,
+        "paths": [
+            "C:/Users/diabomba/Desktop/Playwright_Dia/features/"
+        ],
+        "require": [
+            "C:/Users/diabomba/Desktop/Playwright_Dia/steps/*.ts"
+        ],
+        "requireModule": [
+            "ts-node/register"
+        ],
+        "format": ["progress-bar",
+            "html:cucumber-report.html"]
+    }
+}

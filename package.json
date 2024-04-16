@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "author": "roberto ramponi",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.43.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.4.0",
+    "cucumber-html-reporter": "^7.1.1"
+  }
+}

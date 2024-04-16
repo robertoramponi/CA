@@ -1,0 +1,508 @@
+{
+    "data": {
+        "characters": {
+            "info": {
+                "count": 826
+            },
+            "results": [
+                {
+                    "name": "Aqua Morty",
+                    "id": "21",
+                    "status": "unknown",
+                    "species": "Humanoid",
+                    "type": "Fish-Person",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Citadel of Ricks"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E10"
+                        },
+                        {
+                            "episode": "S03E01"
+                        }
+                    ],
+                    "created": "2017-11-04T22:39:48.055Z"
+                },
+                {
+                    "name": "Aqua Rick",
+                    "id": "22",
+                    "status": "unknown",
+                    "species": "Humanoid",
+                    "type": "Fish-Person",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Citadel of Ricks"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E10"
+                        },
+                        {
+                            "episode": "S03E01"
+                        },
+                        {
+                            "episode": "S03E07"
+                        }
+                    ],
+                    "created": "2017-11-04T22:41:07.171Z"
+                },
+                {
+                    "name": "Arcade Alien",
+                    "id": "23",
+                    "status": "unknown",
+                    "species": "Alien",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Immortality Field Resort"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E02"
+                        },
+                        {
+                            "episode": "S02E08"
+                        },
+                        {
+                            "episode": "S02E10"
+                        },
+                        {
+                            "episode": "S03E04"
+                        },
+                        {
+                            "episode": "S03E05"
+                        }
+                    ],
+                    "created": "2017-11-05T08:43:05.095Z"
+                },
+                {
+                    "name": "Armagheadon",
+                    "id": "24",
+                    "status": "Alive",
+                    "species": "Alien",
+                    "type": "Cromulon",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Signus 5 Expanse"
+                    },
+                    "location": {
+                        "name": "Signus 5 Expanse"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E05"
+                        }
+                    ],
+                    "created": "2017-11-05T08:48:30.776Z"
+                },
+                {
+                    "name": "Armothy",
+                    "id": "25",
+                    "status": "Dead",
+                    "species": "unknown",
+                    "type": "Self-aware arm",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Post-Apocalyptic Earth"
+                    },
+                    "location": {
+                        "name": "Post-Apocalyptic Earth"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S03E02"
+                        }
+                    ],
+                    "created": "2017-11-05T08:54:29.343Z"
+                },
+                {
+                    "name": "Arthricia",
+                    "id": "26",
+                    "status": "Alive",
+                    "species": "Alien",
+                    "type": "Cat-Person",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "Purge Planet"
+                    },
+                    "location": {
+                        "name": "Purge Planet"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E09"
+                        }
+                    ],
+                    "created": "2017-11-05T08:56:46.165Z"
+                },
+                {
+                    "name": "Artist Morty",
+                    "id": "27",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Citadel of Ricks"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E10"
+                        },
+                        {
+                            "episode": "S03E07"
+                        }
+                    ],
+                    "created": "2017-11-05T08:59:07.457Z"
+                },
+                {
+                    "name": "Attila Starwar",
+                    "id": "28",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Interdimensional Cable"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E08"
+                        },
+                        {
+                            "episode": "S02E02"
+                        },
+                        {
+                            "episode": "S02E06"
+                        }
+                    ],
+                    "created": "2017-11-05T09:02:16.595Z"
+                },
+                {
+                    "name": "Baby Legs",
+                    "id": "29",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "Human with baby legs",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Interdimensional Cable"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E08"
+                        }
+                    ],
+                    "created": "2017-11-05T09:06:19.644Z"
+                },
+                {
+                    "name": "Baby Poopybutthole",
+                    "id": "30",
+                    "status": "Alive",
+                    "species": "Poopybutthole",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "unknown"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S03E10"
+                        }
+                    ],
+                    "created": "2017-11-05T09:13:16.483Z"
+                },
+                {
+                    "name": "Baby Wizard",
+                    "id": "31",
+                    "status": "Dead",
+                    "species": "Alien",
+                    "type": "Parasite",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E04"
+                        }
+                    ],
+                    "created": "2017-11-05T09:15:11.286Z"
+                },
+                {
+                    "name": "Bearded Lady",
+                    "id": "32",
+                    "status": "Dead",
+                    "species": "Alien",
+                    "type": "Parasite",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E04"
+                        }
+                    ],
+                    "created": "2017-11-05T09:18:04.184Z"
+                },
+                {
+                    "name": "Beebo",
+                    "id": "33",
+                    "status": "Dead",
+                    "species": "Alien",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Venzenulon 7"
+                    },
+                    "location": {
+                        "name": "Venzenulon 7"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S03E08"
+                        }
+                    ],
+                    "created": "2017-11-05T09:21:55.595Z"
+                },
+                {
+                    "name": "Benjamin",
+                    "id": "34",
+                    "status": "Alive",
+                    "species": "Poopybutthole",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Interdimensional Cable"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E08"
+                        },
+                        {
+                            "episode": "S02E02"
+                        },
+                        {
+                            "episode": "S02E06"
+                        }
+                    ],
+                    "created": "2017-11-05T09:24:04.748Z"
+                },
+                {
+                    "name": "Bepisian",
+                    "id": "35",
+                    "status": "Alive",
+                    "species": "Alien",
+                    "type": "Bepisian",
+                    "gender": "unknown",
+                    "origin": {
+                        "name": "Bepis 9"
+                    },
+                    "location": {
+                        "name": "Bepis 9"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E01"
+                        },
+                        {
+                            "episode": "S01E11"
+                        },
+                        {
+                            "episode": "S02E08"
+                        },
+                        {
+                            "episode": "S03E04"
+                        }
+                    ],
+                    "created": "2017-11-05T09:27:38.491Z"
+                },
+                {
+                    "name": "Beta-Seven",
+                    "id": "36",
+                    "status": "Alive",
+                    "species": "Alien",
+                    "type": "Hivemind",
+                    "gender": "unknown",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "unknown"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E03"
+                        }
+                    ],
+                    "created": "2017-11-05T09:31:08.952Z"
+                },
+                {
+                    "name": "Beth Sanchez",
+                    "id": "37",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "Earth (C-500A)"
+                    },
+                    "location": {
+                        "name": "Earth (C-500A)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E08"
+                        }
+                    ],
+                    "created": "2017-11-05T09:38:22.960Z"
+                },
+                {
+                    "name": "Beth Smith",
+                    "id": "38",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "Earth (C-137)"
+                    },
+                    "location": {
+                        "name": "Earth (C-137)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E01"
+                        },
+                        {
+                            "episode": "S01E02"
+                        },
+                        {
+                            "episode": "S01E03"
+                        },
+                        {
+                            "episode": "S01E04"
+                        },
+                        {
+                            "episode": "S01E05"
+                        },
+                        {
+                            "episode": "S01E06"
+                        },
+                        {
+                            "episode": "S03E01"
+                        },
+                        {
+                            "episode": "S05E10"
+                        }
+                    ],
+                    "created": "2017-11-05T09:48:44.230Z"
+                },
+                {
+                    "name": "Beth Smith",
+                    "id": "39",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "Earth (Evil Rick's Target Dimension)"
+                    },
+                    "location": {
+                        "name": "Earth (Evil Rick's Target Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S01E10"
+                        }
+                    ],
+                    "created": "2017-11-05T09:52:31.777Z"
+                },
+                {
+                    "name": "Beth's Mytholog",
+                    "id": "40",
+                    "status": "Dead",
+                    "species": "Mythological Creature",
+                    "type": "Mytholog",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "Nuptia 4"
+                    },
+                    "location": {
+                        "name": "Nuptia 4"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S02E07"
+                        }
+                    ],
+                    "created": "2017-11-05T10:02:26.701Z"
+                }
+            ]
+        },
+        "location": {
+            "id": "1"
+        },
+        "episodesByIds": [
+            {
+                "id": "1"
+            },
+            {
+                "id": "2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "data": {
+        "characters": {
+            "info": {
+                "count": 29
+            },
+            "results": [
+                {
+                    "name": "Modern Rick",
+                    "id": "485",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "unknown"
+                    },
+                    "location": {
+                        "name": "Citadel of Ricks"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/485.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S03E07"
+                        }
+                    ],
+                    "created": "2018-05-22T17:36:56.925Z"
+                },
+                {
+                    "name": "Fascist Shrimp Rick",
+                    "id": "503",
+                    "status": "Alive",
+                    "species": "Animal",
+                    "type": "Shrimp",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Earth (Fascist Shrimp Dimension)"
+                    },
+                    "location": {
+                        "name": "Earth (Fascist Shrimp Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/503.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S04E01"
+                        }
+                    ],
+                    "created": "2020-05-02T11:53:46.229Z"
+                },
+                {
+                    "name": "Fascist Teddy Bear Rick",
+                    "id": "507",
+                    "status": "Alive",
+                    "species": "Animal",
+                    "type": "Teddy Bear",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Earth (Fascist Teddy Bear Dimension)"
+                    },
+                    "location": {
+                        "name": "Earth (Fascist Teddy Bear Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/507.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S04E01"
+                        }
+                    ],
+                    "created": "2020-05-02T12:18:23.346Z"
+                },
+                {
+                    "name": "Wasp Rick",
+                    "id": "516",
+                    "status": "Alive",
+                    "species": "Animal",
+                    "type": "Wasp",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Earth (Wasp Dimension)"
+                    },
+                    "location": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/516.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S04E01"
+                        }
+                    ],
+                    "created": "2020-05-02T12:36:47.872Z"
+                },
+                {
+                    "name": "Rick Sanchez",
+                    "id": "631",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "Soulless Puppet",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Story Train"
+                    },
+                    "location": {
+                        "name": "Story Train"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/631.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S04E06"
+                        }
+                    ],
+                    "created": "2020-08-06T16:39:08.485Z"
+                },
+                {
+                    "name": "Rick’s Disguise",
+                    "id": "638",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "Soulless Puppet",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Story Train"
+                    },
+                    "location": {
+                        "name": "Story Train"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/638.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S04E06"
+                        }
+                    ],
+                    "created": "2020-08-06T16:50:10.447Z"
+                },
+                {
+                    "name": "Turkey Rick",
+                    "id": "760",
+                    "status": "Alive",
+                    "species": "Animal",
+                    "type": "Turkey",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "location": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/760.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S05E06"
+                        }
+                    ],
+                    "created": "2021-10-17T15:02:38.081Z"
+                },
+                {
+                    "name": "Young Memory Rick",
+                    "id": "779",
+                    "status": "Alive",
+                    "species": "Human",
+                    "type": "Memory",
+                    "gender": "Male",
+                    "origin": {
+                        "name": "Birdperson's Consciousness"
+                    },
+                    "location": {
+                        "name": "Rick's Memories"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/779.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S05E08"
+                        }
+                    ],
+                    "created": "2021-10-25T09:12:36.210Z"
+                },
+                {
+                    "name": "Rick's Garage",
+                    "id": "781",
+                    "status": "Alive",
+                    "species": "Robot",
+                    "type": "Artificial Intelligence",
+                    "gender": "Female",
+                    "origin": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "location": {
+                        "name": "Earth (Replacement Dimension)"
+                    },
+                    "image": "https://rickandmortyapi.com/api/character/avatar/781.jpeg",
+                    "episode": [
+                        {
+                            "episode": "S05E08"
+                        }
+                    ],
+                    "created": "2021-10-25T09:18:48.188Z"
+                }
+            ]
+        },
+        "location": {
+            "id": "1"
+        },
+        "episodesByIds": [
+            {
+                "id": "1"
+            },
+            {
+                "id": "2"
+            }
+        ]
+    }
+}
